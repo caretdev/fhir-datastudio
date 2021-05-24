@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "FHIR",
+    "logoUrl": "https://raw.githubusercontent.com/caretdev/fhir-datastudio/main/img/caretdev-icon.png",
+    "company": "CaretDev Corporation",
+    "companyUrl": "https://caretdev.com/",
+    "addonUrl": "https://github.com/caretdev/fhir-datastudio",
+    "supportUrl": "https://github.com/caretdev/fhir-datastudio/issues",
+    "description": "Access data in FHIR",
+    "sources": [
+      "FHIR"
+    ],
+    "feeType": [
+      "FREE"
+    ]
+  },
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
